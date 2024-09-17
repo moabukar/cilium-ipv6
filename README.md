@@ -1,6 +1,8 @@
 # Cilium IPv6
 
-## Cilium
+This lab demonstrates how to set up and use Cilium with IPv6 in a Kubernetes environment. It covers cluster creation, Cilium installation, Hubble activation, and various IPv6 connectivity tests
+
+## Setup
 
 ```
 kind create cluster --config kind.yaml
